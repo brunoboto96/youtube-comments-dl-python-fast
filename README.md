@@ -5,10 +5,10 @@ This Python script allows you to download YouTube videos along with their metada
 
 ## 📚 Table of Contents
 
--   [Requirements](https://github.com/brunoboto96/youtube-comments-dl-python-fast#requirements)
--   [Setup](https://github.com/brunoboto96/youtube-comments-dl-python-fast#setup)
--   [Usage](https://github.com/brunoboto96/youtube-comments-dl-python-fast#usage)
--   [Disclaimer](https://github.com/brunoboto96/youtube-comments-dl-python-fast#disclaimer)
+-   [Requirements](https://github.com/brunoboto96/youtube-comments-dl-python-fast#-requirements)
+-   [Setup](https://github.com/brunoboto96/youtube-comments-dl-python-fast#-setup)
+-   [Usage](https://github.com/brunoboto96/youtube-comments-dl-python-fast#-usage)
+-   [Disclaimer](https://github.com/brunoboto96/youtube-comments-dl-python-fast#%EF%B8%8F-disclaimer)
 
 ## 📦 Requirements
 
